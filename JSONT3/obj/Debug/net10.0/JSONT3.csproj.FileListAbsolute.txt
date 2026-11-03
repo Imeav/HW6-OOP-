@@ -1,0 +1,16 @@
+K:\Programming\JSONT\JSONT\bin\Debug\net10.0\books.json
+K:\Programming\JSONT\JSONT\bin\Debug\net10.0\JSONT3.exe
+K:\Programming\JSONT\JSONT\bin\Debug\net10.0\JSONT3.deps.json
+K:\Programming\JSONT\JSONT\bin\Debug\net10.0\JSONT3.runtimeconfig.json
+K:\Programming\JSONT\JSONT\bin\Debug\net10.0\JSONT3.dll
+K:\Programming\JSONT\JSONT\bin\Debug\net10.0\JSONT3.pdb
+K:\Programming\JSONT\JSONT\obj\Debug\net10.0\JSONT3.GeneratedMSBuildEditorConfig.editorconfig
+K:\Programming\JSONT\JSONT\obj\Debug\net10.0\JSONT3.AssemblyInfoInputs.cache
+K:\Programming\JSONT\JSONT\obj\Debug\net10.0\JSONT3.AssemblyInfo.cs
+K:\Programming\JSONT\JSONT\obj\Debug\net10.0\JSONT3.csproj.CoreCompileInputs.cache
+K:\Programming\JSONT\JSONT\obj\Debug\net10.0\JSONT3.dll
+K:\Programming\JSONT\JSONT\obj\Debug\net10.0\refint\JSONT3.dll
+K:\Programming\JSONT\JSONT\obj\Debug\net10.0\JSONT3.pdb
+K:\Programming\JSONT\JSONT\obj\Debug\net10.0\JSONT3.genruntimeconfig.cache
+K:\Programming\JSONT\JSONT\obj\Debug\net10.0\ref\JSONT3.dll
+K:\Programming\JSONT\JSONT\obj\Debug\net10.0\JSONT3.csproj.Up2Date
