@@ -1,0 +1,16 @@
+K:\Programming\JSONT\JSONT1\bin\Debug\net10.0\books.json
+K:\Programming\JSONT\JSONT1\bin\Debug\net10.0\JSONT1.exe
+K:\Programming\JSONT\JSONT1\bin\Debug\net10.0\JSONT1.deps.json
+K:\Programming\JSONT\JSONT1\bin\Debug\net10.0\JSONT1.runtimeconfig.json
+K:\Programming\JSONT\JSONT1\bin\Debug\net10.0\JSONT1.dll
+K:\Programming\JSONT\JSONT1\bin\Debug\net10.0\JSONT1.pdb
+K:\Programming\JSONT\JSONT1\obj\Debug\net10.0\JSONT1.GeneratedMSBuildEditorConfig.editorconfig
+K:\Programming\JSONT\JSONT1\obj\Debug\net10.0\JSONT1.AssemblyInfoInputs.cache
+K:\Programming\JSONT\JSONT1\obj\Debug\net10.0\JSONT1.AssemblyInfo.cs
+K:\Programming\JSONT\JSONT1\obj\Debug\net10.0\JSONT1.csproj.CoreCompileInputs.cache
+K:\Programming\JSONT\JSONT1\obj\Debug\net10.0\JSONT1.dll
+K:\Programming\JSONT\JSONT1\obj\Debug\net10.0\refint\JSONT1.dll
+K:\Programming\JSONT\JSONT1\obj\Debug\net10.0\JSONT1.pdb
+K:\Programming\JSONT\JSONT1\obj\Debug\net10.0\JSONT1.genruntimeconfig.cache
+K:\Programming\JSONT\JSONT1\obj\Debug\net10.0\ref\JSONT1.dll
+K:\Programming\JSONT\JSONT1\obj\Debug\net10.0\JSONT1.csproj.Up2Date
